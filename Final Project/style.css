@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-image: url(backgroundimage.png); 
+}
+img {
+    padding-top: 200px;
+}
+h1 {
+    color: white;
+}
+#hot{
+    background-color: lightcoral;
+    padding: 4px;
+}
+#cold {
+    background-color: lightskyblue;
+    padding: 4px;
+}

@@ -1,0 +1,18 @@
+body {
+    background: grey;
+    
+}
+#container {
+    background-color: white;
+    margin: 100px auto;
+    padding: 25px 25px;
+    border-radius: 25px;
+    text-align: center;
+    width: 400px;
+    font-family: 'Quicksand', sans-serif;
+}
+#calculate {
+    border-color: grey;
+    font-variant: small-caps;
+    border-radius: 5px;
+}

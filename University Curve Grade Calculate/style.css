@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: lightblue;
+    font-family: 'Quicksand', sans-serif;
+}
+div.main {
+    margin: 0 auto;
+    padding: 75px 75px;
+    border-radius: 25px;
+    text-align: center;
+    width: 800px;
+    background: white;
+}
+button {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+}
